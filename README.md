@@ -11,6 +11,7 @@
 
 Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na UFMS e estou na área de DevOps/Infraestrutura, estou na fase de aprimorar meu git e fazer projetos de programação!!
 
+#
 
 <h3 align="left">Conecte-se comigo!</h3>
 
@@ -36,7 +37,7 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
     </a>
 </p>
 
----
+#
 
 ### Linguagens e Tecnologias
 
@@ -124,7 +125,7 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
 <br/>
 <br/>
 
----
+#
 
 ### Estatísticas
 
@@ -137,6 +138,7 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
     src="https://github-readme-stats-fast.vercel.app/api?username=biavieirakkj&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br"
   />
 </p>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biavieirakkj/biavieirakkj/output/github-contribution-grid-snake-dark.svg">
