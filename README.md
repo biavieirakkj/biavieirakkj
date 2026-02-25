@@ -1,10 +1,10 @@
 # 💻 Beatriz Vieira
 
-**`Analista de Infraestrutura`**
+**`Analista de Infraestrutur`**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c900e6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c900e6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo/a+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -43,28 +43,28 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
 
 <img 
     align="left" 
-    alt="Ansible"
-    title="Ansible" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PowerShell" 
-    title="PowerShell"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"          
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"       
+  />
+  <img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
 <img 
     align="left" 
     alt="Java"
@@ -91,14 +91,6 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
 />
 <img 
     align="left" 
-    alt="Windows"
-    title="Windows" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
@@ -115,11 +107,19 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Ansible"
+    title="Ansible" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PowerShell" 
+    title="PowerShell"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"          
 />
 
 <br/>
