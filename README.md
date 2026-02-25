@@ -13,10 +13,10 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
 
 #
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left">Conecte-se comigo</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:faculbeatriz@)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:faculbeatriz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/beatrizvgdasilva/)
 
 
 <p align="left">
@@ -28,7 +28,7 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
             src="https://custom-icon-badges.demolab.com/github/stars/biavieirakkj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/biavieirakkj?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -39,7 +39,7 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
 
 #
 
-### Linguagens e Tecnologias
+### Linguagens e Tecnologias que uso
 
 <img 
     align="left" 
