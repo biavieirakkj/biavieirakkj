@@ -1,6 +1,6 @@
 # 💻 Beatriz Vieira
 
-**`Analista de Infraestrutur`**
+**`Analista de Infraestrutura`**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -22,6 +22,8 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
 #
 
 ### Linguagens e Tecnologias que uso
+
+## Front-End
 
 <img 
     align="left" 
@@ -47,6 +49,9 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
+
+## Back-End
+  
 <img 
     align="left" 
     alt="Java"
@@ -71,6 +76,9 @@ Olá!! Meu nome é Beatriz, atualmente estou cursando Engenharia de Software na 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
+
+## Infraestrutura
+
 <img 
     align="left" 
     alt="Linux" 
