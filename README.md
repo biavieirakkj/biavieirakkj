@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c900e6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+automação+e+otimização+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c900e6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+automa%C3%A7%C3%A3o+e+otimiza%C3%A7%C3%A3o+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -19,7 +19,7 @@ olá!! meu nome é Beatriz, atualmente estou cursando engenharia de software na 
 
 #
 
-## linguagens e tecnologias que uso
+## linguagens e tecnologias 
 
 ### front-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" title="CSS" style="margin-right: 10px;" />
@@ -42,7 +42,7 @@ olá!! meu nome é Beatriz, atualmente estou cursando engenharia de software na 
 
 <p>
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
