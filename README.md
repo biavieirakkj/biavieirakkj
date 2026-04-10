@@ -1,15 +1,13 @@
 # 💻 beatriz vieira 💻
 
-**`analista de infraestrutura`**
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c900e6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+seja+bem+vindo/a+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c900e6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+automação+e+otimização+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 
-olá!! meu nome é Beatriz, atualmente estou cursando engenharia de software na UFMS e estou na área de devops/infraestrutura, estou na fase de aprimorar meu git e fazer projetos de programação!!
+olá!! meu nome é Beatriz, atualmente estou cursando engenharia de software na UFMS e estou na área de devops/infraestrutura, estou na fase de fazer projetos de programação, obter experiência de mercado e focar na faculdade
 
 #
 
