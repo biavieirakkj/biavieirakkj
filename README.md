@@ -1,23 +1,23 @@
-# 💻 beatriz vieira 💻
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c900e6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+automa%C3%A7%C3%A3o+e+otimiza%C3%A7%C3%A3o+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+  <p align="center">
+  <img src=".png" alt="Banner" width="100%">
+</p>
 
+<p align="left">
+  <div>
+  <img src="cat smoking STICKER by imoji.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+     olá!! meu nome é Beatriz, atualmente estou cursando engenharia de software na UFMS e estou na área de devops/infraestrutura, estou na fase de fazer projetos de programação, obter experiência        de mercado e focar na faculdade
+  </div>
+</p>
 
-olá!! meu nome é Beatriz, atualmente estou cursando engenharia de software na UFMS e estou na área de devops/infraestrutura, estou na fase de fazer projetos de programação, obter experiência de mercado e focar na faculdade
+<br/>
 
-#
-
-<h3 align="left">conecte-se comigo</h3>
+## conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:faculbeatriz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/beatrizvgdasilva/)
 
-
-#
+<br/>
 
 ## linguagens e tecnologias 
 
@@ -34,20 +34,11 @@ olá!! meu nome é Beatriz, atualmente estou cursando engenharia de software na 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-plain-wordmark.svg" width="40px" title="Jira" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40px" title="Canva" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="40px" title="Composer" style="margin-right: 10px;" /> 
           
 <br/>
-<br/>
-
-#
 
 ## estatísticas
 
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=biavieirakkj&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br"
-  />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biavieirakkj&bg_color=0f1923&color=00cfff&line=00cfff&point=ffffff&area=true&area_color=00cfff25&hide_border=true"/>
 </p>
 
 
