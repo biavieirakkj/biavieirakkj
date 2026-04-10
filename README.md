@@ -5,8 +5,8 @@
 <p align="left">
   <div>
     <h2 align="center"><code>beatriz@github:~$ whoami</code></h2>
-    <img src="cat smoking STICKER by imoji.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
-     meu nome é Beatriz, atualmente estou cursando engenharia de software na UFMS e estou na área de devops/infraestrutura, estou na fase de fazer projetos de programação, obter experiência              de mercado e focar na faculdade
+    <img src="clip.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+    meu nome é Beatriz, atualmente estou cursando engenharia de software na UFMS e estou na área de devops/infraestrutura, estou na fase de fazer projetos de programação, obter experiência              de mercado e focar na faculdade
   </div>
 </p>
 
@@ -26,13 +26,14 @@
 ### infraestrutura
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="50px" title="Linux" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="Git" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50px" title="Ansible" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50px" title="PowerShell" style="margin-right: 10px;" />
 
+<img src="cat smoking STICKER by imoji.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  
 ### ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-plain-wordmark.svg" width="50px" title="Jira" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50px" title="Canva" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="50px" title="Composer" style="margin-right: 10px;" /> 
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-plain-wordmark.svg" width="50px" title="Jira" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50px" title="Canva" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="50px" title="Composer" style="margin-right: 10px;" />
+     
 <br/>
 
 ## estatísticas
-
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=biavieirakkj&bg_color=0f1923&color=00cfff&line=00cfff&point=ffffff&area=true&area_color=00cfff25&hide_border=true"/>
 </p>
