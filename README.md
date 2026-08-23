@@ -1,4 +1,6 @@
 
+<img src="https://github.com/biavieirakkj/biavieirakkj/blob/main/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
 <p align="left">
   <div>
     <h2 align="center"><code>beatriz@github:~$ whoami</code></h2>
@@ -31,18 +33,18 @@
 
 ## projetos em destaque
 
-### Quadro a Quadro
+### quadro a quadro
 Sistema web de gerenciamento interno de cinema, desenvolvido como projeto acadêmico para a disciplina de Programação Web. Permite o controle de filmes, salas e sessões, com autenticação e controle de acesso por perfil de usuário.
 
-<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF00F6" /> <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=FF00F6" />
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
 
 🔗 [ver repositório](https://github.com/biavieirakkj/quadro-a-quadro)
 
-<br/>
-
-### Controle de Gastos
+### controle de gastos
 Aplicação web para controle de gastos pessoais, criada para fins de estudo, com autenticação via Firebase e validações de formulário.
 
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF00F6" /> <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FF00F6" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFFFFF" />
 
 🔗 [ver repositório](https://github.com/biavieirakkj/controle-gastos)
+
+<img src="https://github.com/biavieirakkj/biavieirakkj/blob/main/marquee.svg?raw=true" style="max-width: 100%;" alt="See you next time" />
