@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%">
-</p>
 
 <p align="left">
   <div>
@@ -21,24 +18,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px" title="JavaScript" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px" title="HTML" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px" title="CSS" style="margin-right: 10px;" />
 
 ### back-end
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" title="Java" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" title="MySQL" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50px" title="Docker" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50px" title="Firebase" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" title="MongoDB" style="margin-right: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50px" title="Java" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50px" title="Spring Boot" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" title="PostgreSQL" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" title="MySQL" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="50px" title="Docker" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50px" title="Firebase" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50px" title="MongoDB" style="margin-right: 10px;" />
+
+### testes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="50px" title="Cypress" style="margin-right: 10px;" />
       
 ### infraestrutura
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="50px" title="Linux" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="Git" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50px" title="Ansible" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50px" title="PowerShell" style="margin-right: 10px;" />
   
 ### ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-plain-wordmark.svg" width="50px" title="Jira" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50px" title="Canva" style="margin-right: 10px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="50px" title="Composer" style="margin-right: 10px;" />
-     
+
+## projetos em destaque
+
+### Quadro a Quadro
+Sistema web de gerenciamento interno de cinema, desenvolvido como projeto acadêmico para a disciplina de Programação Web. Permite o controle de filmes, salas e sessões, com autenticação e controle de acesso por perfil de usuário.
+
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=FF00F6" /> <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=FF00F6" />
+
+🔗 [ver repositório](https://github.com/biavieirakkj/quadro-a-quadro)
+
 <br/>
 
-## estatísticas
-<table width="100%">
-  <tr>
-    <td width="80%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=biavieirakkj&bg_color=0f1923&color=00cfff&line=00cfff&point=ffffff&area=true&area_color=00cfff25&hide_border=true"             width="100%"/>
-        </td>
-        <td width="20%" align="center">
-      <img src="cat smoking STICKER by imoji.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+### Controle de Gastos
+Aplicação web para controle de gastos pessoais, criada para fins de estudo, com autenticação via Firebase e validações de formulário.
+
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FF00F6" /> <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FF00F6" />
+
+🔗 [ver repositório](https://github.com/biavieirakkj/controle-gastos)
