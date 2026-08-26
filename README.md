@@ -47,4 +47,18 @@ Aplicação web para controle de gastos pessoais, criada para fins de estudo, co
 
 🔗 [ver repositório](https://github.com/biavieirakkj/controle-gastos)
 
+### simulador de matrícula com verificação de conflito de horários e requisitos
+Modelagem, projeto e construção de um banco de dados relacional, com integração ao código feito em Python, além de pesquisa adicional sobre SQL e o minimundo proposto para solucionar problemas reais apresentados nos requisitos.
+
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+
+🔗 [ver repositório](https://github.com/miguelpaullo/Lab-BD)
+
+### SIGFAP - testes automatizados
+Implementação de testes automatizados E2E (End-to-End) para o sistema Novo SIGFAP, utilizando o framework Cypress. Desenvolvido como atividade prática da disciplina de Verificação, Validação e Testes (VV&T), com o objetivo de automatizar fluxos críticos do sistema e validar funcionalidades sob a perspectiva do usuário final.
+
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=FFFFFF" />
+
+🔗 [ver repositório](https://github.com/miguelpaullo/sigfap-cypress) · [ver issues](https://github.com/miguelpaullo/sigfap-cypress/issues)
+
 <img src="https://github.com/biavieirakkj/biavieirakkj/blob/main/marquee.svg?raw=true" style="max-width: 100%;" alt="See you next time" />
