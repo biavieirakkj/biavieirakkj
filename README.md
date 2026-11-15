@@ -1,8 +1,6 @@
 
 <h2 align="center"><code>beatriz@github:~$ whoami</code></h2>
 
-<img src="clip.gif" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
-
 ```console
 beatriz@ufms:~$ cat /etc/os-release
 NAME="Beatriz"
