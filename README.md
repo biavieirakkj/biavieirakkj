@@ -1,17 +1,3 @@
-
-<h2 align="center"><code>beatriz@github:~$ whoami</code></h2>
-
-```console
-beatriz@ufms:~$ cat /etc/os-release
-NAME="Beatriz"
-CURSO="Engenharia de Software"
-INSTITUICAO="UFMS"
-AREA="QA/Análise de Dados"
-STATUS="Estudando e fazendo projetos, ganhando experiência de mercado e focando na faculdade"
-```
-
-<br clear="right"/>
-
 ```console
 beatriz@ufms:~$ neofetch
         .--.         beatriz@github
@@ -20,7 +6,7 @@ beatriz@ufms:~$ neofetch
       //   \ \       Foco:    QA / Análise de Dados
      (|     | )      Shell:   bash
     /'\_   _/`\      Editor:  vim / vscode
-    \___)=(___/      Status:  em construção 🚧
+    \___)=(___/      Status:  Estudando e fazendo projetos, ganhando experiência de mercado e focando na faculdade
 ```
 
 ```console
@@ -93,6 +79,13 @@ SIGFAP - testes automatizados. Implementação de testes automatizados E2E (End-
 <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=00FF41" />
 
 🔗 [ver repositório](https://github.com/miguelpaullo/sigfap-cypress) · [ver issues](https://github.com/miguelpaullo/sigfap-cypress/issues)
+
+### `$ cat meu-pe-de-meia/README.md`
+Aplicativo Android de controle financeiro pessoal, desenvolvido em grupo para a disciplina de Programação para Dispositivos Móveis. Organiza receitas, despesas e contas a pagar, com login protegido por BCrypt, banco local com Room, relatórios mensais, notificações de vencimento e modo claro/escuro.
+
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=00FF41" /> <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=00FF41" />
+
+🔗 [ver repositório](https://github.com/biavieirakkj/av3-gestaodegastosapp)
 
 <br/>
 
